@@ -4,5 +4,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/blog',
                 'doc_host': 'https://noklam.github.io',
                 'git_url': 'https://github.com/noklam/blog',
-                'lib_path': 'blog'},
-  'syms': {'blog.core': {'blog.core.foo': ('core.html#foo', 'blog/core.py')}}}
+                'lib_path': 'noklam'},
+  'syms': {'noklam.core': {'noklam.core.foo': ('core.html#foo', 'noklam/core.py')}}}
