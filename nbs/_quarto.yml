@@ -15,8 +15,11 @@ website:
     background: primary
     search: true
     left:
+      - text: "Kedro Blog"
+        href: kedro_blog/index.qmd
       - text: "Blog"
         href: blog/index.qmd
+
   sidebar:
     style: floating
 
