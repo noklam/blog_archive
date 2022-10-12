@@ -1,6 +1,6 @@
 ---
-title: Nok Blog
-subtitle: Nok's experiment on Kedro stuff
+title: Data Science & Software Engineering
+subtitle: My development journal...
 listing:
   sort: "date desc"
   contents: "posts"

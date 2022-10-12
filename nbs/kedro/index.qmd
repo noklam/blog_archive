@@ -1,6 +1,6 @@
 ---
-title: Kedro's Stuff
-subtitle: Nok's experiments on Kedro
+title: Kedro's related stuff
+subtitle: My experiments on Kedro (non-official)
 listing:
   sort: "date desc"
   contents: "posts"
